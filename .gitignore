@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor configs and OS junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Output
+dist/
+build/
+
+# CSV/Resultados temporales
+resultados.csv
